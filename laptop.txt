@@ -1,0 +1,15 @@
+ASUS_VivoBook_15
+8GB
+AMD_Ryzen_5_3500U
+512GB_SSD
+AMD_Radeo_Vega_8
+MacBook_Pro_16
+64GB
+Intel_Core_i9-9980HK
+8TB_SSD
+AMD_Radeon_Pro_5500M_4GB
+MSI_GF75
+8GB
+Intel_Core_i5-10300H
+512GB_SSD
+Nvidia_Geforce_GTX_1650

@@ -1,0 +1,15 @@
+LG_K10
+2GB
+Qualcomm_Snapdragon_410
+13Mpx
+8GB
+Samsung_Galaxy_A21
+3GB
+MediaTek_Helio_P35_MT6765
+16Mpx
+32GB
+Xiaomi_Mi_8
+6GB
+Qualcomm_Snapdragon_845
+12Mpx
+256GB

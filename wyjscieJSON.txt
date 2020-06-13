@@ -1,0 +1,4 @@
+[
+{"Nazwa": "ASUS_VivoBook_15", "Ram": "8GB", "Procesor": "AMD_Ryzen_5_3500U", "Dysk": "512GB_SSD", "Karta Graficzna": "AMD_Radeo_Vega_8"},
+{"Nazwa": "MacBook_Pro_16", "Ram": "64GB", "Procesor": "Intel_Core_i9-9980HK", "Dysk": "8TB_SSD", "Karta Graficzna": "AMD_Radeon_Pro_5500M_4GB"},
+{"Nazwa": "MSI_GF75", "Ram": "8GB", "Procesor": "Intel_Core_i5-10300H", "Dysk": "512GB_SSD", "Karta Graficzna": "Nvidia_Geforce_GTX_1650"},
